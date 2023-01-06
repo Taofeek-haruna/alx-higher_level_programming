@@ -6,3 +6,4 @@ def add(a, b):
 
 
 print('a + b = add(a, b)\n' .format(a, b, (a + b)))
+add(a  + b)
