@@ -1,0 +1,13 @@
+#!/usr/bin/python3
+
+def argu_no(*args):
+
+return(len(args))
+
+    c = 6
+    f = 3
+
+    n = argu_no(Hello, welcome, to, the, best, school)
+
+
+print(n, "arguments:\n, Hello\n, welcome\n, to\n, the\n, best\n, school\n")
