@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-add()
-a = 1
-b = 2
-print('a + b = add(a,b)\n')
+def add(a, b):
+
+    a = 1
+    b = 2
+    sum = a + b
+
+
+print('{0} + {1} = {2}\n' .format(a, b, sum))
