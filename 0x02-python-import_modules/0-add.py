@@ -3,7 +3,8 @@ def add(a, b):
 
     a = 1
     b = 2
+    add_0 = []
 
 
 print('a + b = add(a, b)\n' .format(a, b, (a + b)))
-add(a  + b)
+add(a + b)
