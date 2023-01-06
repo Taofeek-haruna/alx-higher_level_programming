@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-def add(a, b):
-
+if "_name" = "_main_"
     a = 1
     b = 2
     add_0 = []
